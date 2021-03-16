@@ -12,4 +12,4 @@ NOTE: We will use the input() funtion to collect users input. An example is demo
 days = int(input("Please enter a number in days between 1 and 1,000,000,000: "))
 print(days)
 days_in_seconds = days * 24 * 60 * 60
-print("You have :", days_in_seconds, "left")
+print("You have:", days_in_seconds, "seconds left")
