@@ -12,4 +12,4 @@ Output should read like - "81.32 degrees fahrenheit = 27.4 degrees celsius"
 '''
 Fahrenheit = (input("Enter your Fahrenheit degree there: "))
 celsius = (int(Fahrenheit) - 32) * (5 / 9)
-print(Fahrenheit, "degrees fahrenheit =", celsius, "degrees celsius")
+print(Fahrenheit, "degrees fahrenheit =", round(celsius, 1), "degrees celsius")
