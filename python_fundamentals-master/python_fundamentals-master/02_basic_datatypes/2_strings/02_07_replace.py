@@ -7,5 +7,7 @@ Symbol input: #
 Result: #ore python progra##ing please
 
 '''
+user_string = input("Enter your something:")
+user_symbol = input("Enter your symbol there:")
 
 
