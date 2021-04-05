@@ -11,7 +11,7 @@ int_user_num = int(user_input)
 
 
 def div_by_4_7(num):
-    print(num % 4 == 0 and num % 7 == 0)
+    print("It's", num % 4 == 0 and num % 7 == 0, "that", user_input, "is divisible by 4 and 7")
 
 
 div_by_4_7(int_user_num)
