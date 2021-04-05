@@ -6,8 +6,9 @@ Write a script that completes the following tasks.
 
 # define a function that determines whether the number is divisible by 4 or 7 and returns a boolean
 
-user_input = input("Enter your number there: ")
+user_input = input("Enter your number there to see if it divisible by 4 and 7: ")
 int_user_num = int(user_input)
+
 
 def div_by_4_7(num):
     print(num % 4 == 0 and num % 7 == 0)
