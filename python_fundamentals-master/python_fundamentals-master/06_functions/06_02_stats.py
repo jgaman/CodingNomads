@@ -8,7 +8,7 @@ example_list = [1, 2, 3, 4, 5, 6, 7]
 
 
 def stats(list):
-  return max(list)
+  print("Max value element:", max(list))
 
 
 # call the function below here
