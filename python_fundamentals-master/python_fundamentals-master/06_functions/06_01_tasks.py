@@ -16,7 +16,6 @@ def div_by_4_7(num):
 
 div_by_4_7(int_user_num)
 
-
 # define a function that determines whether a number is divisible by both 4 and 7 and returns a boolean
 
 # take in a number from the user between 1 and 1,000,000,000
